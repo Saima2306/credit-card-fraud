@@ -1,6 +1,6 @@
 # local package
 -e .
-
+dvclive
 # external requirements
 click
 Sphinx
